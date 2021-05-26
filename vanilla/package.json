@@ -12,6 +12,8 @@
     "express": "^4.17.1",
     "stripe": "^7.1.0"
   },
+  "homepage":"http://localhost:3000/checkout",
+  "proxy": "http://localhost:4242",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
